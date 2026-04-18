@@ -1345,8 +1345,8 @@ ul {
   }
 
   .hero-image {
-    max-height: 360px;
-    aspect-ratio: 16/10;
+    max-height: 540px;
+    aspect-ratio: 4/5;
   }
 
   .hero h1 {
