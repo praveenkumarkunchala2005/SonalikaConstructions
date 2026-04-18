@@ -1430,6 +1430,10 @@ ul {
     font-size: 1.75rem;
   }
 
+  .hero-price {
+    font-size: 0.7rem;
+  }
+
   .hero-buttons {
     flex-direction: column;
   }
